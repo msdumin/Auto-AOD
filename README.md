@@ -1,5 +1,5 @@
 # Auto-AOD
-
+自定义DialogPreference
 <img alt="screenshot1" src="./screenshot/screenshot_20190603142307.jpg" width="30%">
 <img alt="screenshot2" src="./screenshot/screenshot_20190603142226.jpg" width="30%">
 
